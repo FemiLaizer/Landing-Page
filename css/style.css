@@ -26,6 +26,8 @@ input {
     transition: all 0.2s;
 }
 
+/* HEADER STYLING */
+
 header {
     width: 100%;
     display: flex;
